@@ -1,2 +1,2 @@
 User-agents: *
-Disallow: /admin/
+Disallow: /img/
